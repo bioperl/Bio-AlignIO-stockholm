@@ -1,0 +1,10 @@
+.*
+*~
+!.gitignore
+
+# ignore build
+Bio-AlignIO-stockholm-*
+
+# ignore text editors stuff
+.emacs.*
+*.komodoproject
