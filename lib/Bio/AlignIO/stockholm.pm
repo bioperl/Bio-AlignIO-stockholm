@@ -219,6 +219,7 @@ methods. Internal methods are usually preceded with a _
 # Let the code begin...
 
 package Bio::AlignIO::stockholm;
+
 use strict;
 
 use Bio::Seq::Meta;
